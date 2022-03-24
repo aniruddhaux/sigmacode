@@ -1,0 +1,2762 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+	.banner_home::before {
+		left: 200px;
+		width: 35%;
+	}
+	
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+.banner_home::before {
+	left: 130px;
+	height: 100%;
+	width: 34%;
+}
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+
+	
+.services .service_bg {
+	width: 149px;
+	height: 166px;
+	position: absolute;
+	left: 0;
+	bottom: 0px;
+}
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .about_bg {
+	bottom: -90px;
+}
+
+/***************************
+	about inner page css end
+*****************************/
+
+
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+.services ul li {
+	width: 81%;
+	flex: 0 0 31%;
+	margin-right: 30px;
+}
+.services .service_bg {
+	display: none;
+}	
+.strip {
+	background-size: 100% !important;
+}
+	
+.strip .strip_text h3 {
+	font-size: 24px;
+	line-height: 36px;
+}	
+.strip .strip_text h2 {
+	font-size: 34px;
+}	
+	
+.strip .wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+	flex-direction: row;
+	margin-top: 16px;
+}	
+	
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .about_bg {
+	bottom: -90px;
+}
+
+/***************************
+	about inner page css end
+*****************************/
+
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Nav header css START
+*****************************/	
+	.manu_header .manu_header_inner .logo {
+		width: 150px;
+		height: 150px;
+		top: -26px;
+		left: 7px;
+	}
+	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 30px;
+	line-height: 64px;
+}
+h3.banner_home_heading span {
+	font-size: 46px;
+	line-height: 43px;
+}		
+.banner_home .caption h4 {
+	font-size: 25px;
+	font-family: 'Varela Round', sans-serif;
+	margin-top: 10px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 20px;
+	line-height: 51px;
+}	
+	
+.banner_home .caption {
+	padding: 0 0 0 20px;
+	margin: 0;
+	width: 566px;
+	margin-top: 0%;
+}	
+.banner_home .banner_pic {
+	height: 360px;
+	width: 273px;
+	border: 10px solid #fff;
+}
+
+.banner_buttom {
+	padding: 15px 26px;
+	font-size: 18px;
+}	
+	
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+.about .abot_pic {
+	height: 350px;
+	width: 350px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 280px;
+	width: 280px;
+	padding: 15px;
+}	
+	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+}	
+	
+.strip .strip_text {
+	width: 63%;
+}	
+.newsletterBox {
+	margin-left: 0;
+}	
+	
+.strip .strip_text h3 {
+	font-size: 24px;
+	line-height: 39px;
+}	
+	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services .service_mobile {
+	display: none;
+}
+.services ul{
+	width: auto;	
+	float: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 30px;
+}
+.services ul li {
+    padding-top: 0;
+    width: 45%;
+}
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+	
+/***************************
+	services_sec End here
+*****************************/
+	
+
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study ul li {
+	width: 19%;
+	padding: 20px;
+}
+.case_study ul li .case_study_pic {
+	width: 100%;
+	height: 136px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+	
+.slick-dots {
+	display: none !important;
+}	
+	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+
+/***************************
+	about inner page css start
+*****************************/
+.about_inner ul li .abot_pic {
+	height: 350px;
+	width: 350px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 280px;
+	width: 280px;
+	padding: 15px;
+}
+
+.about_inner ul li .about_bg {
+	bottom: 50px;
+}
+
+/***************************
+	about inner page css end
+*****************************/
+
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+	    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header .manu_header_inner .logo {
+	width: 100px;
+	height: 100px;
+}
+	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -790px;
+		width: 1650px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 30px;
+	line-height: 64px;
+}
+h3.banner_home_heading span {
+	font-size: 46px;
+	line-height: 43px;
+}		
+.banner_home .caption h4 {
+	font-size: 25px;
+	font-family: 'Varela Round', sans-serif;
+	margin-top: 10px;
+	line-height: 38px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 20px;
+	line-height: 51px;
+}	
+	
+.banner_home .caption {
+	padding: 0 0 0 20px;
+	margin: 0;
+	width: 526px;
+	margin-top: 0%;
+}	
+.banner_home .banner_pic {
+	height: 360px;
+	width: 360px;
+	border: 10px solid #fff;
+}
+
+.banner_buttom {
+	padding: 15px 26px;
+	font-size: 18px;
+}	
+	
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+.about .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about .abot_pic .about_inner_pic img{
+	border: 10px solid #fff;
+		
+	}	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+}	
+	
+.strip .strip_text {
+	width: 63%;
+}	
+.newsletterBox {
+	margin-left: 0;
+}	
+	
+.strip .strip_text h3 {
+	font-size: 24px;
+	line-height: 39px;
+}	
+	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services .service_mobile {
+	display: none;
+}
+.services ul{
+	width: auto;	
+	float: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 30px;
+}
+.services ul li {
+    padding-top: 0;
+    width: 45%;
+}
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+	
+/***************************
+	services_sec End here
+*****************************/
+	
+
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study ul li {
+	width: 43%;
+	padding: 20px;
+	margin-bottom: 24px;
+	min-height: 269px;
+}
+.case_study ul li .case_study_pic {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+	
+.slick-dots {
+	display: none !important;
+}	
+	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+
+/***************************
+	about inner page css start
+*****************************/
+.about_inner ul li .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about_inner ul li .abot_pic .about_inner_pic img {
+	border: 10px solid #fff;
+}
+.about_inner ul li .about_bg {
+	bottom: 50px;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: 64%;
+	flex: 0 0 64%;
+	margin-left: 0;
+}
+/***************************
+	about inner page css end
+*****************************/
+
+
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+
+	
+ .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header .manu_header_inner .logo {
+	width: 100px;
+	height: 100px;
+}
+	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/			
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -620px;
+		width: 1350px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 30px;
+	line-height: 64px;
+}
+h3.banner_home_heading span {
+	font-size: 37px;
+	line-height: 33px;
+}		
+.banner_home .caption h4 {
+	font-size: 25px;
+	font-family: 'Varela Round', sans-serif;
+	margin-top: 10px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 20px;
+	line-height: 51px;
+}	
+	
+.banner_home .caption {
+	padding: 0 0 0 0;
+	margin: 0;
+	width: 566px;
+	margin-top: 0%;
+}	
+.banner_home .banner_pic {
+	height: 296px;
+	width: 311px;
+	border: 10px solid #fff;
+}
+.banner_buttom {
+	padding: 15px 26px;
+	font-size: 18px;
+}	
+.banner_home .captionBox {
+	top: 60px;
+}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+	
+.about {
+	padding: 50px 0;
+	overflow: hidden;
+	position: relative;
+}	
+	
+	
+.about .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about .abot_pic .about_inner_pic img{
+	border: 10px solid #fff;	
+	}	
+	
+.about .wrapper .about_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-left: auto;
+	margin-top: 30px;
+}	
+	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+	height: auto;
+	padding: 10px 0;
+}	
+.strip .wrapper {
+	margin-top: 0;
+}	
+.strip .strip_text {
+	width: 63%;
+}	
+.newsletterBox {
+	margin-left: 0;
+}	
+	
+.strip .strip_text h3 {
+	font-size: 24px;
+	line-height: 39px;
+}	
+.strip .strip_text h2 {
+	font-size: 30px;
+}	
+	
+.strip .strip_text h3 {
+	font-size: 17px;
+	line-height: 30px;
+}	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	padding: 50px 0;
+}	
+	
+h2.heading_center {
+	font-size: 38px;
+	margin-bottom: 40px;
+}	
+	
+.services .service_mobile {
+	display: none;
+}
+.services ul {
+	width: auto;
+	float: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 30px;
+}
+.services ul li {
+	padding-top: 0;
+	width: 48%;
+	flex: 0 0 48%;
+}
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+	
+/***************************
+	services_sec End here
+*****************************/
+	
+/***************************
+	why us section start here
+*****************************/	
+.why_us {
+	padding: 50px 0;
+	overflow: hidden;
+}
+.why_us p {
+	font-size: 16px;
+	line-height: 28px;
+}	
+	
+.why_us ul li {
+	width: 43%;
+	height: 100%;
+	min-height: 222px;
+}	
+/***************************
+	why us section end here
+*****************************/
+	
+/***************************
+it banner steep start
+*****************************/	
+.it_steep p {
+	font-size: 24px;
+	line-height: 46px;
+}
+.it_steep {
+	height: auto;
+	padding: 100px 0;
+}	
+	
+
+.slick-dots {
+	display: none !important;
+}	
+a.banner_buttom.center {
+	width: 20%;
+}		
+/***************************
+it banner steep end
+*****************************/	
+	
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study {
+	padding: 50px 0;
+}	
+	
+.case_study ul li {
+	width: 42%;
+	padding: 20px;
+	margin-bottom: 17px;
+	min-height: 269px;
+}
+.case_study ul li .case_study_pic {
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+	
+.case_study ul li .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	border-radius: 5px;
+}	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+/***************************
+ our_partner start here
+*****************************/	
+.our_partner {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+	
+/***************************
+ our_partner end here
+*****************************/		
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.about_inner ul li .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+	margin-top: 30px;
+}
+
+.about_inner ul li .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about_inner ul li .abot_pic .about_inner_pic img {
+	border: 10px solid #fff;
+}
+.about_inner ul li .about_bg {
+	display: none;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: 64%;
+	flex: 0 0 64%;
+	margin-left: 0;
+}
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+
+/***************************
+	about inner page css end
+*****************************/
+
+
+
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+/***************************
+	Nav header css START
+*****************************/	
+	.manu_header .manu_header_inner .logo {
+		width: 90px;
+		height: 90px;
+	}
+	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/	
+/***************************
+		Banner start here
+*****************************/	
+.banner_home img {
+		margin: 0 0 0 -520px;
+		width: 1050px;
+}	
+	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 25px;
+	line-height: 50px;
+}
+h3.banner_home_heading span {
+	font-size: 30px;
+	line-height: 31px;
+}		
+.banner_home .caption h4 {
+	font-size: 20px;
+	margin-top: 10px;
+	line-height: 32px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 15px;
+	line-height: 39px;
+}
+.banner_home .caption {
+	padding: 0 0 0 0;
+	margin: 0;
+	width: 336px;
+	margin-top: 0%;
+}
+.banner_home .banner_pic {
+	height: 225px;
+	width: 311px;
+	border: 10px solid #fff;
+}
+.banner_buttom {
+	padding: 15px 26px;
+	font-size: 18px;
+}	
+.banner_home .captionBox {
+	top: 77px;
+}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+	
+.about {
+	padding: 50px 0;
+	overflow: hidden;
+	position: relative;
+}	
+	
+	
+.about .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about .abot_pic .about_inner_pic img{
+	border: 10px solid #fff;	
+	}	
+	
+.about .wrapper .about_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-left: auto;
+	margin-top: 30px;
+}	
+	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+	height: auto;
+	padding: 10px 0;
+}	
+.strip .wrapper {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	height: auto;
+	flex-direction: column;
+	margin-top: 0;
+}
+.strip .strip_text {
+	width: auto;
+}
+.newsletterBox {
+	margin-left: 0;
+	margin: 10px auto;
+}
+	
+.strip .strip_text h2 {
+	font-size: 30px;
+	text-align: center;
+}
+.strip .strip_text h3 {
+	font-size: 17px;
+	line-height: 30px;
+	text-align: center;
+}	
+	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	padding: 50px 0;
+}	
+	
+h2.heading_center {
+	font-size: 38px;
+	margin-bottom: 40px;
+}	
+	
+.services .service_mobile {
+	display: none;
+}
+.services ul {
+	width: auto;
+	float: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-direction: column;
+}
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 0;
+}
+.services ul li {
+	padding-top: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}	
+
+	
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+	text-align: center;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 30px;
+}	
+/***************************
+	services_sec End here
+*****************************/
+	
+/***************************
+	why us section start here
+*****************************/	
+.why_us {
+	padding: 50px 0;
+	overflow: hidden;
+}
+.why_us p {
+	font-size: 16px;
+	line-height: 28px;
+}	
+.why_us ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}	
+.why_us ul li {
+	width: 100%;
+	height: 100%;
+	min-height: auto;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+	
+.why_us ul li p {
+	text-align: center;
+}	
+/***************************
+	why us section end here
+*****************************/
+	
+/***************************
+it banner steep start
+*****************************/	
+.it_steep p {
+	font-size: 20px;
+	line-height: 34px;
+}
+.it_steep {
+	height: auto;
+	padding: 60px 0;
+}	
+	
+
+.slick-dots {
+	display: none !important;
+}	
+a.banner_buttom.center {
+	width: 26%;
+}	
+/***************************
+it banner steep end
+*****************************/	
+	
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study {
+	padding: 50px 0;
+}	
+.case_study ul {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: 40px;
+}	
+.case_study ul li {
+	width: 100%;
+	padding: 20px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+.case_study ul li .case_study_pic {
+	width: 209px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.case_study ul li:last-child {
+	margin-top: 20px;
+}
+	
+.case_study ul li .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	border-radius: 5px;
+}	
+	
+	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+/***************************
+ our_partner start here
+*****************************/	
+.our_partner {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+	
+/***************************
+ our_partner end here
+*****************************/		
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.about_inner ul li .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+	margin-top: 30px;
+}
+
+.about_inner ul li .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about_inner ul li .abot_pic .about_inner_pic img {
+	border: 10px solid #fff;
+}
+.about_inner ul li .about_bg {
+	display: none;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: 64%;
+	flex: 0 0 64%;
+	margin-left: 0;
+}
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+.about_inner ul li {
+	padding: 50px 0;
+	overflow: hidden;
+}
+/***************************
+	about inner page css end
+*****************************/
+
+
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+ 
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header .manu_header_inner .logo {
+	width: 70px;
+	height:70px;
+}
+.manu_header {
+	padding: 10px 0;
+}	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+
+.banner_home img {
+	margin: 0 0 0 -390px;
+	width: 710px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 20px;
+	line-height: 38px;
+}
+h3.banner_home_heading span {
+	font-size: 24px;
+	line-height: 20px;
+}		
+.banner_home .caption h4 {
+	font-size: 14px;
+	margin-top: 6px;
+	line-height: 20px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 12px;
+	line-height: 19px;
+}
+.banner_home .caption {
+	padding: 0 0 0 0;
+	margin: 0;
+	width: 176px;
+	margin-top: 0%;
+}
+.banner_home .banner_pic {
+	height: 148px;
+	width: 311px;
+	border: 5px solid #fff;
+}
+.banner_buttom {
+	padding: 8px 14px;
+	font-size: 14px;
+	margin-top: 0;
+}	
+.banner_home .captionBox {
+	top: 39px;
+}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+	
+.about {
+	padding: 50px 0;
+	overflow: hidden;
+	position: relative;
+}	
+	
+	
+.about .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about .abot_pic .about_inner_pic img{
+	border: 10px solid #fff;	
+	}	
+	
+.about .wrapper .about_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-left: auto;
+	margin-top: 30px;
+}	
+.about .about_bg {
+	display: none;
+}	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+	height: auto;
+	padding: 10px 0;
+}	
+.strip .wrapper {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	height: auto;
+	flex-direction: column;
+	margin-top: 0;
+}
+.strip .strip_text {
+	width: auto;
+}
+.newsletterBox {
+	margin-left: 0;
+	margin: 10px auto;
+}
+	
+.strip .strip_text h2 {
+	font-size: 25px;
+	text-align: center;
+}
+.strip .strip_text h3 {
+	font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+	margin-top: 7px;
+}
+	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	padding: 50px 0;
+}	
+	
+h2.heading_center {
+	font-size: 20px;
+	margin-bottom: 19px;
+	line-height: 32px;
+}
+.services .service_mobile {
+	display: none;
+}
+.services ul {
+	width: auto;
+	float: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-direction: column;
+}
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 0;
+}
+.services ul li {
+	padding-top: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}	
+
+	
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+	text-align: center;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 30px;
+}	
+	
+.services ul li h3 {
+	font-size: 18px;
+	padding: 13px 0;
+}	
+/***************************
+	services_sec End here
+*****************************/
+	
+/***************************
+	why us section start here
+*****************************/	
+.why_us {
+	padding: 50px 0;
+	overflow: hidden;
+}
+.why_us p {
+	font-size: 16px;
+	line-height: 28px;
+}	
+.why_us ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}	
+.why_us ul li {
+	width: 100%;
+	height: 100%;
+	min-height: auto;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+	
+.why_us ul li p {
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+}
+/***************************
+	why us section end here
+*****************************/
+	
+/***************************
+it banner steep start
+*****************************/	
+.it_steep p {
+	font-size: 14px;
+	line-height: 24px;
+}
+.it_steep {
+	height: auto;
+	padding: 60px 0;
+}	
+	
+
+.slick-dots {
+	display: none !important;
+}	
+a.banner_buttom.center {
+	width: 26%;
+}	
+/***************************
+it banner steep end
+*****************************/	
+	
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study {
+	padding: 50px 0;
+}	
+.case_study ul {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: 40px;
+}	
+.case_study ul li {
+	width: 100%;
+	padding: 20px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+.case_study ul li .case_study_pic {
+	width: 209px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.case_study ul li:last-child {
+	margin-top: 20px;
+}
+	
+.case_study ul li .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	border-radius: 5px;
+}	
+	
+.case_study .about_bg {
+	display: none;
+}	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+/***************************
+ our_partner start here
+*****************************/	
+.our_partner {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+	
+/***************************
+ our_partner end here
+*****************************/		
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.about_inner ul li .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+	margin-top: 30px;
+}
+
+.about_inner ul li .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about_inner ul li .abot_pic .about_inner_pic img {
+	border: 10px solid #fff;
+}
+.about_inner ul li .about_bg {
+	display: none;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: 64%;
+	flex: 0 0 64%;
+	margin-left: 0;
+}
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+.about_inner ul li {
+	padding: 50px 0;
+	overflow: hidden;
+}
+
+h3.banner_home_heading.inner {
+	font-size: 30px;
+	text-align: center;
+}
+.about_inner ul li .about_text .side_heading {;
+	font-size: 22px;
+}
+
+/***************************
+	about inner page css end
+*****************************/
+
+
+}
+
+@media only screen and (max-width:320px) {
+		
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+/***************************
+	Nav header css START
+*****************************/	
+.manu_header .manu_header_inner .logo {
+	width: 90px;
+	height: 90px;
+	top: -10px;
+	left: 7px;
+}
+.manu_header {
+	padding: 10px 0;
+}	
+	#header {
+    	margin-left: 0 !important;
+	}
+	#header .navMenu ul {
+    	padding: 0 !important;
+	}
+	
+	#header .navMenu ul li a {
+		padding: 15px 25px !important;
+	}
+	
+	.search-wrapper.active .close {
+		right: -30px;
+	}
+	.heder_right {
+   	 	right: 40px;
+	}
+	
+	
+/***************************
+	Nav header css eND
+*****************************/		
+/***************************
+		Banner start here
+*****************************/	
+
+.banner_home img {
+	margin: 0 0 0 -390px;
+	width: 710px;
+}	
+.banner_home::before {
+	left: 0;
+	width: 46%;
+}	
+.banner_product::before {
+		display:none;
+}
+h3.banner_home_heading {
+	font-size: 20px;
+	line-height: 38px;
+}
+h3.banner_home_heading span {
+	font-size: 24px;
+	line-height: 20px;
+}		
+.banner_home .caption h4 {
+	font-size: 14px;
+	margin-top: 6px;
+	line-height: 20px;
+}
+	
+.banner_home .caption h5 {
+	font-size: 12px;
+	line-height: 19px;
+}
+.banner_home .caption {
+	padding: 0 0 0 0;
+	margin: 0;
+	width: 566px;
+	margin-top: 0%;
+}	
+.banner_home .banner_pic {
+	height: 148px;
+	width: 311px;
+	border: 5px solid #fff;
+}
+.banner_buttom {
+	padding: 8px 14px;
+	font-size: 14px;
+	margin-top: 0;
+}	
+.banner_home .captionBox {
+	top: 25px;
+}
+/***************************
+		Banner eND here
+*****************************/
+/***************************
+	about_sec Start here
+*****************************/
+	
+.about {
+	padding: 50px 0;
+	overflow: hidden;
+	position: relative;
+}	
+	
+	
+.about .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+	
+.about .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about .abot_pic .about_inner_pic img{
+	border: 10px solid #fff;	
+	}	
+	
+.about .wrapper .about_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-left: auto;
+	margin-top: 30px;
+}	
+	
+/***************************
+	about_sec end here
+*****************************/	
+	
+/***************************
+	singup strip start here
+*****************************/
+	
+.strip {
+	background-image: none;
+	background-color: #fbfbfb;
+	height: auto;
+	padding: 10px 0;
+}	
+.strip .wrapper {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	height: auto;
+	flex-direction: column;
+	margin-top: 0;
+}
+.strip .strip_text {
+	width: auto;
+}
+.newsletterBox {
+	margin-left: 0;
+	margin: 10px auto;
+}
+	
+.strip .strip_text h2 {
+	font-size: 25px;
+	text-align: center;
+}
+.strip .strip_text h3 {
+	font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+	margin-top: 7px;
+}
+	
+/***************************
+	singup strip end here
+*****************************/	
+	
+
+	
+/***************************
+	services_sec start here
+*****************************/
+.services {
+	padding: 50px 0;
+}	
+	
+h2.heading_center {
+	font-size: 20px;
+	margin-bottom: 19px;
+	line-height: 32px;
+}
+.services .service_mobile {
+	display: none;
+}
+.services ul {
+	width: auto;
+	float: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-direction: column;
+}
+.services .service_mobile {
+    width: 350px;
+    height: 692px;
+    margin: 0 auto;
+    display: none;
+}
+.services .service_mobile img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul:last-child {
+    float: none;
+    margin-top: 0;
+}
+.services ul li {
+	padding-top: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}	
+
+	
+.services ul li .service_icon{
+	height: 80px;
+	width: 80px;
+}
+.services ul li .service_icon img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.services ul li h3{
+	font-size: 28px;
+	font-family: 'Varela Round', sans-serif;
+	color: #000;
+	padding: 11px 0;
+}
+
+.services ul li h3 span{
+	color: #DD733F;
+}
+.services ul li p{
+	font-family: 'Varela Round', sans-serif;
+	color: #494949;
+	line-height: 28px;
+	text-align: center;
+}
+
+.services ul li p span{
+	color: #DD733F;
+}
+
+.services ul li:last-child {
+    padding-top: 0;
+}
+
+.services ul:last-child li:last-child {
+	padding-top: 0;
+}
+
+.services .service_bg {
+    width: 179px;
+    height: 199px;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+}
+.services .service_bg img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.services .service_bg {
+	display: none;
+}
+	
+.services ul li a {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 30px;
+}	
+	
+.services ul li h3 {
+	font-size: 18px;
+	padding: 13px 0;
+}	
+/***************************
+	services_sec End here
+*****************************/
+	
+/***************************
+	why us section start here
+*****************************/	
+.why_us {
+	padding: 50px 0;
+	overflow: hidden;
+}
+.why_us p {
+	font-size: 16px;
+	line-height: 28px;
+}	
+.why_us ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}	
+.why_us ul li {
+	width: 100%;
+	height: 100%;
+	min-height: auto;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+	
+.why_us ul li p {
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+}
+/***************************
+	why us section end here
+*****************************/
+	
+/***************************
+it banner steep start
+*****************************/	
+.it_steep p {
+	font-size: 14px;
+	line-height: 24px;
+}
+.it_steep {
+	height: auto;
+	padding: 60px 0;
+}	
+	
+
+.slick-dots {
+	display: none !important;
+}	
+a.banner_buttom.center {
+	width: 26%;
+}	
+/***************************
+it banner steep end
+*****************************/	
+	
+	
+/***************************
+ case_study start here
+*****************************/
+.case_study {
+	padding: 50px 0;
+}	
+.case_study ul {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin-bottom: 40px;
+}	
+.case_study ul li {
+	width: 100%;
+	padding: 20px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+.case_study ul li .case_study_pic {
+	width: 209px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+}
+.case_study ul li:last-child {
+	margin-top: 20px;
+}
+	
+.case_study ul li .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	border-radius: 5px;
+}	
+	
+	
+/***************************
+ case_study end here
+*****************************/	
+	
+	
+/***************************
+ our_partner start here
+*****************************/	
+.our_partner {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+	
+/***************************
+ our_partner end here
+*****************************/		
+	
+
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+    padding: 80px 0 60px 0;
+    background: url("../images/footer_bg.png");
+    background-size: cover;
+}
+.footer ul li {
+    text-align: center;
+    width: auto;
+    margin-right: 30px;
+    vertical-align: top;
+    display: block;
+}
+
+.footer ul li:last-child{
+	margin-right: 0;
+}
+
+
+.footer ul li:nth-child(3), .footer ul li:nth-child(2) {
+    width: auto;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+    width: auto;
+}
+
+li.contact_us li:nth-child(2) {
+    margin-left: 0;
+}
+/***************************
+		Footer section  css End
+*****************************/
+/***************************
+	about inner page css start
+*****************************/
+
+.about_inner ul li .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.about_inner ul li .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+	margin-top: 30px;
+}
+
+.about_inner ul li .abot_pic {
+	height: 250px;
+	width: 250px;
+}
+.about_inner ul li .abot_pic .about_inner_pic {
+	height: 200px;
+	width: 200px;
+	padding: 14px;
+}
+.about_inner ul li .abot_pic .about_inner_pic img {
+	border: 10px solid #fff;
+}
+.about_inner ul li .about_bg {
+	display: none;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: 64%;
+	flex: 0 0 64%;
+	margin-left: 0;
+}
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+
+.about_inner ul li:nth-child(2n) .wrapper {
+	flex-direction: column;
+}
+.about_inner ul li:nth-child(2n) .about_text {
+	width: auto;
+	flex: 0 0 auto;
+	margin-left: 0;
+}
+.about_inner ul li {
+	padding: 50px 0;
+	overflow: hidden;
+}
+
+h3.banner_home_heading.inner {
+	font-size: 30px;
+	text-align: center;
+}
+.about_inner ul li .about_text .side_heading {;
+	font-size: 22px;
+}
+
+/***************************
+	about inner page css end
+*****************************/		
+}
